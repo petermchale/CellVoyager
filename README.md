@@ -28,7 +28,7 @@ where
 * `analysis-name` is the name you want your analysis files to be saved under
 
 
-The current implementation of the model only support OpenAI models. As a result, it assumes you have `.env` file that contains
+The current implementation of the model only supports OpenAI models. As a result, it assumes you have a `.env` file that contains
 ```
 OPENAI_API_KEY=sk-xxxxxxxxxxxxx
 ```
