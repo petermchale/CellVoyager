@@ -1,0 +1,6 @@
+.env
+.venv
+__pycache__
+example/covid19.h5ad
+logs 
+outputs
